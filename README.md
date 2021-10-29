@@ -5,3 +5,5 @@
 - 🔭 I’m currently working with the CRA on Java development and Wiki development using Confluence
 - 🌱 I’m currently learning about AI, Fullstack programming, Programming in C++
 - ⚡ Fun fact: I'm doing a minor in game design and hope to release a game in the future!
+
+### Check out some of my cool programs below!
