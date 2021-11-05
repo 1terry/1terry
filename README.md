@@ -8,4 +8,4 @@
 - 🔍 I'm interested in exploring topics of Machine Learning, Databases, Data Science and VR!
 - ⚡ Fun fact: I'm doing a minor in game design and hope to release a game in the future!
 
-### Check out some of my cool programs below!
+### Check out some of my cool projects below!
